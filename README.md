@@ -3,9 +3,9 @@
 Viral_Spread-Android is an Android game developed using the Unity engine. This repository contains the complete project files and resources necessary to build and run the game. The game challenges players to control the spread of a virtual virus through strategic navigation and quick decision-making.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/VS1.png" alt="Game Screenshot 1" style="width: 32%;">
-  <img src="Game%20Screenshot/VS2.png" alt="Game Screenshot 2" style="width: 32%;">
-  <img src="Game%20Screenshot/VS3.png" alt="Game Screenshot 3" style="width: 32%;">
+  <img src="Game%20Screenshot/VS1.jpg" alt="Game Screenshot 1" style="width: 32%;">
+  <img src="Game%20Screenshot/VS2.jpg" alt="Game Screenshot 2" style="width: 32%;">
+  <img src="Game%20Screenshot/VS3.jpg" alt="Game Screenshot 3" style="width: 32%;">
 </div>
 
 ## Table of Contents
@@ -21,9 +21,9 @@ Viral_Spread-Android is an Android game developed using the Unity engine. This r
 10. [Contact](#contact)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/VS4.png" alt="Game Screenshot 4" style="width: 32%;">
-  <img src="Game%20Screenshot/VS5.png" alt="Game Screenshot 5" style="width: 32%;">
-  <img src="Game%20Screenshot/VS6.png" alt="Game Screenshot 6" style="width: 32%;">
+  <img src="Game%20Screenshot/VS4.jpg" alt="Game Screenshot 4" style="width: 32%;">
+  <img src="Game%20Screenshot/VS5.jpg" alt="Game Screenshot 5" style="width: 32%;">
+  <img src="Game%20Screenshot/VS6.jpg" alt="Game Screenshot 6" style="width: 32%;">
 </div>
 
 ## Introduction
@@ -150,6 +150,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 For any inquiries or support, feel free to contact me or raise an issue
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/VS7.png" alt="Game Screenshot 7" style="width: 32%;">
-  <img src="Game%20Screenshot/VS8.png" alt="Game Screenshot 8" style="width: 32%;">
+  <img src="Game%20Screenshot/VS7.jpg" alt="Game Screenshot 7" style="width: 45%;">
+  <img src="Game%20Screenshot/VS8.jpg" alt="Game Screenshot 8" style="width: 45%;">
 </div>
