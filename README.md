@@ -148,8 +148,3 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Contact
 
 For any inquiries or support, feel free to contact me or raise an issue
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/VS7.jpg" alt="Game Screenshot 7" style="width: 47%;">
-  <img src="Game%20Screenshot/VS8.jpg" alt="Game Screenshot 8" style="width: 47%;">
-</div>
