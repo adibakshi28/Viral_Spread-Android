@@ -1,0 +1,9 @@
+This project was initially built in Unity editor version 2018.xx (The cracked one pro)
+But since it only had max support till android API level 27 (Oreo) and when uploaded to play store it complained that max level should be 28(Pie)
+So downloaded the latest version of unity ie 2019.xx and imported the project to it
+Now when again uploaded to google play it complained about 32 bit to 64 bit nonsense 
+Upon searching it was found that Scripting Changed from Mono - > ILT2CPP  && Check both architectures of ARM
+Also check the box of google app bundle in Build Setting window  (This results in building a .aab file instead of .apk file)
+This was finally uploaded to gogole play
+
+(In the backup version for this project library folder of the project was not saved (too big) as it is regenerated as project is again loaded in unity)
