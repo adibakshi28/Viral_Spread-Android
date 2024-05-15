@@ -1,6 +1,6 @@
 # Viral Spread
 
-Viral_Spread-Android is an Android game developed using the Unity engine. This repository contains the complete project files and resources necessary to build and run the game. The game challenges players to control the spread of a virtual virus through strategic navigation and quick decision-making.
+Viral Spread is an Android game developed using the Unity engine. This repository contains the complete project files and resources necessary to build and run the game. The game challenges players to control the spread of a virtual virus through strategic navigation and quick decision-making.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -16,7 +16,7 @@ Viral_Spread-Android is an Android game developed using the Unity engine. This r
 
 ## Introduction
 
-Viral_Spread-Android is an engaging and interactive game where players navigate through various levels to control the spread of a virtual virus. The game is built with Unity and designed for Android devices, providing a fun and educational experience.
+Viral Spread is an engaging and interactive game where players navigate through various levels to control the spread of a virtual virus. The game is built with Unity and designed for Android devices, providing a fun and educational experience.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Game%20Screenshot/VS1.jpg" alt="Game Screenshot 1" style="width: 32%;">
