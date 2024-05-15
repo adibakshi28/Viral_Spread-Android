@@ -2,12 +2,6 @@
 
 Viral_Spread-Android is an Android game developed using the Unity engine. This repository contains the complete project files and resources necessary to build and run the game. The game challenges players to control the spread of a virtual virus through strategic navigation and quick decision-making.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/VS1.jpg" alt="Game Screenshot 1" style="width: 32%;">
-  <img src="Game%20Screenshot/VS2.jpg" alt="Game Screenshot 2" style="width: 32%;">
-  <img src="Game%20Screenshot/VS3.jpg" alt="Game Screenshot 3" style="width: 32%;">
-</div>
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -20,15 +14,15 @@ Viral_Spread-Android is an Android game developed using the Unity engine. This r
 9. [License](#license)
 10. [Contact](#contact)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/VS4.jpg" alt="Game Screenshot 4" style="width: 32%;">
-  <img src="Game%20Screenshot/VS5.jpg" alt="Game Screenshot 5" style="width: 32%;">
-  <img src="Game%20Screenshot/VS6.jpg" alt="Game Screenshot 6" style="width: 32%;">
-</div>
-
 ## Introduction
 
 Viral_Spread-Android is an engaging and interactive game where players navigate through various levels to control the spread of a virtual virus. The game is built with Unity and designed for Android devices, providing a fun and educational experience.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="Game%20Screenshot/VS1.jpg" alt="Game Screenshot 1" style="width: 32%;">
+  <img src="Game%20Screenshot/VS2.jpg" alt="Game Screenshot 2" style="width: 32%;">
+  <img src="Game%20Screenshot/VS3.jpg" alt="Game Screenshot 3" style="width: 32%;">
+</div>
 
 ## Features
 - **Intuitive Controls**: Easy touch controls for smooth gameplay.
@@ -91,6 +85,12 @@ Players must navigate through different environments to control the spread of a 
 - **Scoring**: Points awarded based on performance and efficiency.
 - **Feedback**: Real-time feedback to help players improve.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="Game%20Screenshot/VS4.jpg" alt="Game Screenshot 4" style="width: 32%;">
+  <img src="Game%20Screenshot/VS5.jpg" alt="Game Screenshot 5" style="width: 32%;">
+  <img src="Game%20Screenshot/VS6.jpg" alt="Game Screenshot 6" style="width: 32%;">
+</div>
+
 ## Scripts Overview
 
 The `Assets/Scripts` directory contains the C# scripts responsible for the game's functionality. Here is a detailed overview of the key scripts:
@@ -150,6 +150,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 For any inquiries or support, feel free to contact me or raise an issue
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/VS7.jpg" alt="Game Screenshot 7" style="width: 45%;">
-  <img src="Game%20Screenshot/VS8.jpg" alt="Game Screenshot 8" style="width: 45%;">
+  <img src="Game%20Screenshot/VS7.jpg" alt="Game Screenshot 7" style="width: 47%;">
+  <img src="Game%20Screenshot/VS8.jpg" alt="Game Screenshot 8" style="width: 47%;">
 </div>
